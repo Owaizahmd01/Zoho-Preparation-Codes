@@ -1,3 +1,8 @@
+
+// Constract the formula of the given value
+
+
+
 #include <stdio.h>
 
 int main()
